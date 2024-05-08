@@ -1,0 +1,7 @@
+4
+Plumber 1
+1
+Plumber 2
+1
+Saboteur 1
+Saboteur 2
